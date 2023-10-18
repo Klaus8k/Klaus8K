@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--
-https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/
+https://blog.skillfactory.ru/kak-pravilno-oformit-profil-github-novichku/ --- оформление гитхаба
+
 **Klaus8k/Klaus8k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
